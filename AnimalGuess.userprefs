@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{D16FCBDC-41E1-4DA5-94F4-357DF81718F8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Persistence/Hint.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="10" Column="37" />
+      <File FileName="Persistence/Animal.cs" Line="9" Column="48" />
+      <File FileName="Persistence/Hint.cs" Line="7" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AnimalGuess PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
