@@ -5,7 +5,8 @@ Follow the instructions to get the code running on any .net core supported envir
 
 * install .net core 2.0
 * clone this repository into a local directory
-* run `dot net restore` on a command line in the directory
+* run `dotnet restore` on a command line in the directory
+* run `dotnet ef migrations add InitialCreate`
 * run `dotnet ef database update`
 * run `dotnet run`
 * Browse the address [http://localhost:5000/](http://localhost:5000/)
